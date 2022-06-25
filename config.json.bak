@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["082252285143@s.whatsapp.net","082252285143@s.whatsapp.net"],
+    "ownerName": "ʀʏᴀɴ ꜱᴛᴏʀᴇ",
+    "instagram" : "https://instagram.com/ryannn.store",
+    "botName": "ʏᴀɴɴ ʙᴏᴛ-ᴍᴅ",
+    "footer": "📮ʏᴀɴɴ ʙᴏᴛ-ᴍᴅ📮",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 60,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 99999999,
+        "user": 50
+    }
+}

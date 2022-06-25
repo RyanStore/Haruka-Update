@@ -1,0 +1,13 @@
+{
+    "wait": "*SEDANG DI PROSES*",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan"
+    },
+    "OnlyGrup": "_Perintah ini hanya bisa digunakan di grup_",
+    "OnlyPM": "_Perintah ini hanya bisa digunakan di private message_",
+    "GrupAdmin": "_Khusus Admin Group ! _",
+    "BotAdmin": "_Bot Harus menjadi admin_",
+    "OnlyOwner": "_*Lu Owner Kah Deck 🗿?*_",
+    "OnlyPrem": "_Premium User Only !_"
+}
